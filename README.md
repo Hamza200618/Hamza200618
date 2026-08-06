@@ -12,11 +12,11 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://hamza200618.github.io/protfolio/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -274,6 +274,10 @@ These are some of the projects that best represent my experience in Artificial I
 
 An AI-powered Smart Study Assistant that transforms lecture notes and past papers into an intelligent learning platform.
 
+<p align="center">
+  <img src="assets/exam.png" alt="ExamMate AI" width="100%">
+</p>
+
 ### Highlights
 
 - 🤖 Claude AI Integration
@@ -300,6 +304,10 @@ An AI-powered Smart Study Assistant that transforms lecture notes and past paper
 
 A full-stack campus management platform developed to simplify complaint handling and university resource booking through an intuitive web interface.
 
+<p align="center">
+  <img src="assets/smart.png" alt="Smart Campus Resource & Complaint Management System" width="100%">
+</p>
+
 ### Highlights
 
 - Resource Booking
@@ -324,6 +332,10 @@ A full-stack campus management platform developed to simplify complaint handling
 A modern company portfolio showcasing AI solutions, intelligent automation, web applications, chatbots, CRM systems, and digital services with a clean, futuristic interface.
 
 <p align="center">
+  <img src="assets/nexus.png" alt="NexusAI Company Portfolio" width="100%">
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Hamza200618/nexusai-company-portfolio">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza200618&repo=nexusai-company-portfolio&theme=tokyonight&hide_border=true"/>
@@ -338,6 +350,10 @@ A modern company portfolio showcasing AI solutions, intelligent automation, web 
 A creative frontend project focused on modern UI design, smooth interactions, and immersive user experience.
 
 <p align="center">
+  <img src="assets/art.png" alt="Artora" width="100%">
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Hamza200618/Artora">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza200618&repo=Artora&theme=tokyonight&hide_border=true"/>
@@ -350,6 +366,10 @@ A creative frontend project focused on modern UI design, smooth interactions, an
 ## ❤️ CareGroup
 
 A web-based platform developed to provide a clean and user-friendly experience while demonstrating practical full-stack development concepts.
+
+<p align="center">
+  <img src="assets/care.png" alt="CareGroup" width="100%">
+</p>
 
 <p align="center">
 
@@ -374,6 +394,11 @@ GitHub reflects not only the projects I've built but also my commitment to conti
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza200618&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
+<p align="center">
+  <img src="assets/stat1.png" alt="GitHub Stats 1" width="49%">
+  <img src="assets/stat2.png" alt="GitHub Stats 2" width="49%">
+</p>
+
 ---
 
 ## 🔥 Contribution Streak
@@ -396,6 +421,10 @@ GitHub reflects not only the projects I've built but also my commitment to conti
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hamza200618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+</p>
+
+<p align="center">
+  <img src="assets/ach.png" alt="GitHub Achievements" width="100%">
 </p>
 
 ---
@@ -445,18 +474,6 @@ If you're working on an exciting idea or looking for a collaborator, feel free t
 
 ---
 
-# 💬 A Few Things About Me
-
-```text
-💡 I enjoy solving challenging problems with technology.
-🤖 I like turning AI ideas into practical applications.
-📚 I enjoy learning new technologies and improving my skills.
-🎯 I value clean, maintainable, and scalable code.
-🚀 I believe software should create real value for its users.
-```
-
----
-
 # 📫 Let's Connect
 
 <p align="center">
@@ -465,11 +482,11 @@ If you're working on an exciting idea or looking for a collaborator, feel free t
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://hamza200618.github.io/protfolio/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -515,7 +532,7 @@ I'm always learning, building, and looking for opportunities to create meaningfu
 
 </p>
 
-> **Note:** The snake animation requires a GitHub Actions workflow. It won't appear until that workflow is added and has run at least once.
+> **Note:** This animation is generated automatically by the GitHub Actions workflow at `.github/workflows/snake.yml` (added below). It renders on the first scheduled run after the workflow is committed — trigger it manually from the **Actions** tab (`Run workflow`) to make it appear immediately.
 
 ---
 
