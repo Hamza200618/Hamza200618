@@ -373,9 +373,7 @@ A web-based platform developed to provide a clean and user-friendly experience w
 
 <p align="center">
 
-<a href="https://github.com/Hamza200618/caregroup">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamza200618&repo=caregroup&theme=tokyonight&hide_border=true"/>
-</a>
+
 
 </p>
 
