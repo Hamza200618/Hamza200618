@@ -387,17 +387,6 @@ GitHub reflects not only the projects I've built but also my commitment to conti
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamza200618&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza200618&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="assets/stat1.png" alt="GitHub Stats 1" width="49%">
-  <img src="assets/stat2.png" alt="GitHub Stats 2" width="49%">
-</p>
 
 ---
 
@@ -417,15 +406,6 @@ GitHub reflects not only the projects I've built but also my commitment to conti
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza200618&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-</p>
-
-<p align="center">
-  <img src="assets/ach.png" alt="GitHub Achievements" width="100%">
-</p>
 
 ---
 
