@@ -524,38 +524,13 @@ I'm always learning, building, and looking for opportunities to create meaningfu
 
 ---
 
-name: Generate Snake
+# 🐍 Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # runs once a day
-  workflow_dispatch:      # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
+<p align="center">
 
-jobs:
-  build:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Hamza200618
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<img src="https://raw.githubusercontent.com/Hamza200618/Hamza200618/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
-      - name: Push snake SVG to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</p>
 
 > **Note:** This animation is generated automatically by the GitHub Actions workflow at `.github/workflows/snake.yml` (added below). It renders on the first scheduled run after the workflow is committed — trigger it manually from the **Actions** tab (`Run workflow`) to make it appear immediately.
 
